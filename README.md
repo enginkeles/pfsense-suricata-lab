@@ -27,7 +27,7 @@ This is my implementation of a pfSense virtual firewall within a VirtualBox envi
    - **NatNetwork1** assigned to Kali Linux (WAN)
 
 2. **Install pfSense and assign WAN/LAN interfaces**  
-   ![pfSense Gateway](images/pfSense_GW_1.png)
+   ![pfSense Gateway](images/pfSense_GW.png)
 
 3. **Configure firewall rules (with an exception allowing all traffic from Kali Linux for testing)**  
    ![pfSense Rules](images/pfSense_Rules.png)
